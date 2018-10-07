@@ -1,0 +1,23 @@
+{
+  "profiles": {
+    "Leo": {
+      "name": "Leo",
+      "lastVersionId": "1.8.7"
+    }
+  },
+  "selectedProfile": "Leo",
+  "clientToken": "4f3a1073-02ce-4bd6-9076-f41e759e9380",
+  "authenticationDatabase": {
+    "550eadb88a233018bf043d1b6ad15863": {
+      "displayName": "Leo",
+      "userid": "Leo",
+      "uuid": "550eadb8-8a23-3018-bf04-3d1b6ad15863",
+      "username": "Leo"
+    }
+  },
+  "selectedUser": "550eadb88a233018bf043d1b6ad15863",
+  "launcherVersion": {
+    "name": "Shiginima Launcher v3.100",
+    "format": 18
+  }
+}

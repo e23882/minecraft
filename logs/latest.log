@@ -1,0 +1,136 @@
+[12:45:34] [Client thread/INFO]: Setting user: Leo
+[12:45:34] [Client thread/INFO]: (Session ID is token: :550eadb88a233018bf043d1b6ad15863)
+[12:45:35] [Client thread/INFO]: LWJGL Version: 2.9.4
+[12:45:36] [Client thread/INFO]: Reloading ResourceManager: Default
+[12:45:37] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:45:37] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[12:45:37] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:45:37] [Thread-6/INFO]: OpenAL initialized.
+[12:45:38] [Sound Library Loader/INFO]: Sound engine started
+[12:46:03] [Client thread/INFO]: Created: 512x512 textures-atlas
+[12:45:47] [Server thread/INFO]: Starting integrated minecraft server version 1.8.7
+[12:45:47] [Server thread/INFO]: Generating keypair
+[12:45:48] [Server thread/INFO]: Preparing start region for level 0
+[12:45:49] [Server thread/INFO]: Preparing spawn area: 60%
+[12:45:49] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:45:50] [Server thread/INFO]: Leo[local:E:63b70d63] logged in with entity id 399 at (153.3185501974076, 27.0, 152.2287959792595)
+[12:45:50] [Server thread/INFO]: Leo 加入了遊戲
+[12:46:30] [Client thread/ERROR]: Item entity 4131 has no item?!
+[12:46:30] [Client thread/ERROR]: Item entity 4131 has no item?!
+[12:52:52] [Server thread/INFO]: Saving and pausing game...
+[12:52:52] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[12:52:52] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[12:52:52] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[12:53:27] [Server thread/INFO]: Saving and pausing game...
+[12:53:27] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[12:53:27] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[12:53:27] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[12:56:12] [Server thread/INFO]: Leo 獲得成就 [農耕時間！] 
+[12:56:12] [Client thread/INFO]: [CHAT] Leo 獲得成就 [農耕時間！] 
+[12:59:12] [Server thread/INFO]: Saving and pausing game...
+[12:59:12] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[12:59:12] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[12:59:12] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:02:02] [Server thread/INFO]: Saving and pausing game...
+[13:02:02] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:02:02] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:02:02] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:06:02] [Server thread/INFO]: Saving and pausing game...
+[13:06:02] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:06:02] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:06:02] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:08:53] [Server thread/INFO]: Saving and pausing game...
+[13:08:53] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:08:53] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:08:53] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:12:13] [Server thread/INFO]: Saving and pausing game...
+[13:12:13] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:12:13] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:12:13] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:16:52] [Server thread/INFO]: Saving and pausing game...
+[13:16:52] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:16:52] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:16:52] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:17:19] [Server thread/INFO]: Saving and pausing game...
+[13:17:19] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:17:19] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:17:19] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:21:51] [Client thread/ERROR]: Item entity 217148 has no item?!
+[13:21:51] [Client thread/ERROR]: Item entity 217148 has no item?!
+[13:27:30] [Server thread/INFO]: Saving and pausing game...
+[13:27:30] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:27:30] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:27:30] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:28:03] [Client thread/INFO]: Reloading ResourceManager: Default
+[13:28:03] [Server thread/INFO]: Stopping server
+[13:28:03] [Server thread/INFO]: Saving players
+[13:28:03] [Server thread/INFO]: Saving worlds
+[13:28:03] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:28:03] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:28:03] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:28:03] [Client thread/INFO]: SoundSystem shutting down...
+[13:28:03] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:28:03] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:28:04] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[13:28:04] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:28:04] [Thread-10/INFO]: OpenAL initialized.
+[13:28:04] [Sound Library Loader/INFO]: Sound engine started
+[13:28:08] [Client thread/INFO]: Created: 512x512 textures-atlas
+[13:28:15] [Server thread/INFO]: Starting integrated minecraft server version 1.8.7
+[13:28:15] [Server thread/INFO]: Generating keypair
+[13:28:15] [Server thread/INFO]: Preparing start region for level 0
+[13:28:15] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:28:16] [Server thread/INFO]: Leo[local:E:ae081d8c] logged in with entity id 256081 at (137.87602074873453, 70.0, 162.0454437350679)
+[13:28:16] [Server thread/INFO]: Leo 加入了遊戲
+[13:33:29] [Server thread/INFO]: Saving and pausing game...
+[13:33:29] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:33:29] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:33:29] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:57:54] [Server thread/INFO]: Saving and pausing game...
+[13:57:54] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:57:54] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:57:54] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:57:55] [Client thread/INFO]: Reloading ResourceManager: Default
+[13:57:55] [Server thread/INFO]: Stopping server
+[13:57:55] [Server thread/INFO]: Saving players
+[13:57:55] [Server thread/INFO]: Saving worlds
+[13:57:55] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[13:57:55] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[13:57:55] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[13:57:55] [Client thread/INFO]: SoundSystem shutting down...
+[13:57:56] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:57:56] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:57:56] [Thread-13/INFO]: Initializing LWJGL OpenAL
+[13:57:56] [Thread-13/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:57:56] [Thread-13/INFO]: OpenAL initialized.
+[13:57:56] [Sound Library Loader/INFO]: Sound engine started
+[13:57:56] [Client thread/INFO]: Created: 512x512 textures-atlas
+[18:23:00] [Server thread/INFO]: Starting integrated minecraft server version 1.8.7
+[18:23:00] [Server thread/INFO]: Generating keypair
+[18:23:01] [Server thread/INFO]: Preparing start region for level 0
+[18:23:01] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:23:01] [Server thread/INFO]: Leo[local:E:a9e2978d] logged in with entity id 459740 at (140.40982597621735, 72.0, 175.3098608181971)
+[18:23:01] [Server thread/INFO]: Leo 加入了遊戲
+[18:23:02] [Server thread/WARN]: Biome ID is out of bounds: 200544, defaulting to 0 (Ocean)
+[18:28:27] [Server thread/INFO]: Saving and pausing game...
+[18:28:27] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[18:28:27] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[18:28:27] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[18:28:28] [Client thread/INFO]: Reloading ResourceManager: Default
+[18:28:28] [Server thread/INFO]: Stopping server
+[18:28:28] [Server thread/INFO]: Saving players
+[18:28:28] [Server thread/INFO]: Saving worlds
+[18:28:28] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[18:28:28] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[18:28:28] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[18:28:29] [Client thread/INFO]: SoundSystem shutting down...
+[18:28:29] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:28:29] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:28:29] [Thread-16/INFO]: Initializing LWJGL OpenAL
+[18:28:29] [Thread-16/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:28:29] [Thread-16/INFO]: OpenAL initialized.
+[18:28:29] [Sound Library Loader/INFO]: Sound engine started
+[18:28:30] [Client thread/INFO]: Created: 512x512 textures-atlas
+[18:28:32] [Client thread/INFO]: Stopping!
+[18:28:32] [Client thread/INFO]: SoundSystem shutting down...
+[18:28:32] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
